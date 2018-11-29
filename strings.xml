@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">      Rescue - Primeiros Socorros</string>
+    <string name="hint_button_login">LOGAR</string>
+    <string name="hint_button_cadastrar">CADASTRAR</string>
+    <string name="text_login">Login</string>
+    <string name="text_senha">Senha</string>
+    <string name="text_nome">Nome</string>
+    <string name="text_idade">Idade</string>
+    <string name="text_telefone">Telefone</string>
+    <string name="text_endereco">Endereço</string>
+    <string name="text_sus">Cartão SUS</string>
+    <string name="text_convenio">Convênio Médico</string>
+    <string name="text_contato1">Contato 1</string>
+    <string name="text_contato2">Contato 2</string>
+    <string name="text_sangue">Tipo Sanguíneo</string>
+    <string name="text_alergia">Alergias</string>
+    <string name="text_medicamento">Medicamentos</string>
+</resources>
+
