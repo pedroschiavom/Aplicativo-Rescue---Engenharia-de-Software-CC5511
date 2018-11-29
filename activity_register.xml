@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <EditText
+            android:hint="@string/text_nome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/register_nome"/>
+
+        <EditText
+            android:hint="@string/text_idade"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/register_idade"/>
+
+        <EditText
+            android:hint="@string/text_endereco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/register_endereco"/>
+
+        <EditText
+            android:hint="@string/text_telefone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/register_telefone"/>
+
+        <EditText
+            android:hint="@string/text_sus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/register_sus"/>
+
+        <EditText
+            android:hint="@string/text_convenio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/register_convenio"/>
+
+        <EditText
+            android:hint="@string/text_sangue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/register_sangue"/>
+
+
+        <EditText
+            android:hint="@string/text_contato1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/register_contato1"/>
+
+        <EditText
+            android:hint="@string/text_contato2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/register_contato2"/>
+
+
+        <EditText
+            android:inputType="textMultiLine"
+            android:hint="@string/text_alergia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/register_alergia"/>
+
+        <EditText
+            android:inputType="textMultiLine"
+            android:hint="@string/text_medicamento"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/register_medicamento"/>
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>
